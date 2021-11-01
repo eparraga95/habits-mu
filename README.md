@@ -32,18 +32,18 @@ Dar controle, e acesso rápido e fácil aos hábitos do usuário fazendo com que
 <a name="techs"></a>
 ## 5. Tecnologias
 
-- <a name="ts" href=https://www.typescriptlang.org target="_blank">TypeScript</a>
-- <a name="axios" href=https://www.npmjs.com/package/axios target="_blank">Axios</a>
-- <a name="styled-comp" href=https://styled-components.com/ target="_blank">Styled Components</a>
-- <a name="react-router-dom" href=https://www.npmjs.com/package/react-router-dom target="_blank">React-Router-DOM</a>
-- <a name="date-fns" href=https://www.npmjs.com/package/date-fns target="_blank">Date-FNS</a>
-- <a name="framer-motion" href=https://www.npmjs.com/package/framer-motion target="_blank">Framer Motion</a>
-- <a name="jwt-decode" href=https://www.npmjs.com/package/jwt-decode target="_blank">JWT Decode</a>
-- <a name="react-hook-form" href=https://www.npmjs.com/package/react-hook-form target="_blank">React Hook Form</a>
-- <a name="react-icons" href=https://www.npmjs.com/package/react-icons target="_blank">React Icons</a>
-- <a name="react-toastify" href=https://www.npmjs.com/package/react-toastify target="_blank">React Toastify</a>
-- <a name="yup" href=https://www.npmjs.com/package/yup target="_blank">Yup</a>
-- <a name="hookform-resolvers" href=https://www.npmjs.com/package/@hookform/resolvers target="_blank">@Hookform/Resolvers</a>
+- <a name="ts" href="https://www.typescriptlang.org" target="_blank">TypeScript</a>
+- <a name="axios" href="https://www.npmjs.com/package/axios" target="_blank">Axios</a>
+- <a name="styled-comp" href="https://styled-components.com/" target="_blank">Styled Components</a>
+- <a name="react-router-dom" href="https://www.npmjs.com/package/react-router-dom" target="_blank">React-Router-DOM</a>
+- <a name="date-fns" href="https://www.npmjs.com/package/date-fns" target="_blank">Date-FNS</a>
+- <a name="framer-motion" href="https://www.npmjs.com/package/framer-motion" target="_blank">Framer Motion</a>
+- <a name="jwt-decode" href="https://www.npmjs.com/package/jwt-decode" target="_blank">JWT Decode</a>
+- <a name="react-hook-form" href="https://www.npmjs.com/package/react-hook-form" target="_blank">React Hook Form</a>
+- <a name="react-icons" href="https://www.npmjs.com/package/react-icons" target="_blank">React Icons</a>
+- <a name="react-toastify" href="https://www.npmjs.com/package/react-toastify" target="_blank">React Toastify</a>
+- <a name="yup" href="https://www.npmjs.com/package/yup" target="_blank">Yup</a>
+- <a name="hookform-resolvers" href="https://www.npmjs.com/package/@hookform/resolvers" target="_blank">@Hookform/Resolvers</a>
 
 <a name="features"></a>
 ## 6. Features
